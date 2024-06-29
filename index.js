@@ -27,7 +27,6 @@ class Heroi {
     }
 }
 
-// Exemplo de uso:
 const mago = new Heroi("Gandalf", 150, "mago");
 const guerreiro = new Heroi("Aragorn", 87, "guerreiro");
 const monge = new Heroi("Aang", 112, "monge");
